@@ -1,0 +1,1 @@
+python condorSubmission/PrepareSubmission.py -tn EoverP_InDetTrackParticlesLooseIsolatedVertexAssociated_tree --NPartitions 2 --jobName test1
